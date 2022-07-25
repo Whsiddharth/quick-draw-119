@@ -1,0 +1,22 @@
+body{
+    font-family: fredoka one;
+}
+p{
+    font-size: 18px;
+}
+#score{
+    float: left;
+    margin-left: 20px;
+}
+#timer{
+    float: right;
+    margin-right: 20px;
+}
+span{
+    font-size: 20px;
+}
+canvas{
+    border: black solid 2px;
+    border-radius: 10px;
+    background-color: pink;
+}
